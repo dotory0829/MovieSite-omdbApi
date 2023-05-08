@@ -4,7 +4,8 @@
   "description": "omdbAPI를 이용하여 만든 영화 검색 사이트",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel ./index.html"
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index.html"
   },
   "author": "",
   "license": "ISC",
